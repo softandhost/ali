@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://digitalexon.com/` + encodeURI(path as string)
+					`https://www.highratecpm.com/nvk64ce4?key=50de3d2cec1ed8d76a375896f95836bf/`
 				}`,
 			},
 		};
